@@ -1,1 +1,9 @@
-# Clinica-Veterinaria
+SiteClinicaVeterinaria
+Esse site foi criado para uma clinica veterinaria, nela irá conter um pagina inical com informações basicas, logo a baixo irá ter sobre a veterinaria responsavel.
+Além de tudo isso irá ter uma parte com registros de alguns procedimentos realizados na clinica.
+E ao fianl irá ter um formulario para entrarem em contato.
+
+
+27/07/2024
+    Comecei esse site criando a navbar, ao final quero criar um codigo js em que a navbar aparece quando o usuario da um scroll para cima.
+Uma navbar bem simples mas que futuramento posso a vir modficar ela.
